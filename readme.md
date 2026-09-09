@@ -1,1 +1,3 @@
-google.com, pub-2527858344492618, DIRECT, f08c47fec0942fa0
+# chindakeodouangsy.github.io
+
+Developer website and app-ads.txt authorization file for ckeodouangsy's Android apps.
