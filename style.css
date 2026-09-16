@@ -102,6 +102,12 @@ h2 {
   border: 1px solid #24242e;
 }
 
+.app-links {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+}
+
 .play-badge {
   display: inline-block;
   background: var(--gold);
@@ -111,6 +117,23 @@ h2 {
   padding: 10px 20px;
   border-radius: 999px;
   font-size: 0.9rem;
+}
+
+.support-link {
+  display: inline-block;
+  background: transparent;
+  color: var(--text-dim);
+  font-weight: 600;
+  text-decoration: none;
+  padding: 10px 20px;
+  border-radius: 999px;
+  border: 1px solid #33333e;
+  font-size: 0.9rem;
+}
+
+.support-link:hover {
+  color: var(--text);
+  border-color: #4a4a58;
 }
 
 .contact {
